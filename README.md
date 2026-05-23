@@ -21,7 +21,7 @@ This project is focused on practicing frontend design and responsive layouts.
 I made this project to improve my HTML and CSS skills and understand how UI components are built.
 
 ## 🔗 Live Demo
-(Add your live project link here)
+(profile-card-zeta-snowy.vercel.app)
 
 ## 👨‍💻 Author
 Made by [Vicky Yadav]
